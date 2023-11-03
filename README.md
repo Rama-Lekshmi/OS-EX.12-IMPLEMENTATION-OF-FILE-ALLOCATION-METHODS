@@ -1,6 +1,5 @@
 # OS-EX.12-IMPLEMENTATION-OF-FILE-ALLOCATION-METHODS
 
-( Follow template provided in CPU scheduling algorithms for sub divisions )
 
 # SEQUENTIAL ALLOCATION
 # AIM:
