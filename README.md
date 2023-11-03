@@ -63,7 +63,8 @@ getch();
 }
 ```
 # OUTPUT:
-![Uploading os u.png…]()
+![os u](https://github.com/Rama-Lekshmi/OS-EX.12-IMPLEMENTATION-OF-FILE-ALLOCATION-METHODS/assets/118541549/4124a535-f984-42ca-88d4-18571bf674c5)
+
 
 # RESULT:
 Thus, file management using sequential list is implemented successfully.
